@@ -1,4 +1,4 @@
-# Moodle IIIT-NR Learning Management Solution (WebView)
+# Moodle IIIT-NR Learning Management Solution (WebView) 
 
 This project is an Android application developed using Android Studio that can be used by the student to perform various activities realted to Academics.Moodle IIITNR Learning solution is platform provided by IIITNR Academics for daily Assignment evaluation ,Project submission and to get notify about upcoming Academic Activity to student.This app is webView version of this platform with some extra added feature for hassle free use.
 
