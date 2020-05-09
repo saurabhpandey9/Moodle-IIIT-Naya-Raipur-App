@@ -1,6 +1,18 @@
-# Moodle IIIT-NR Learning Management Solution (WebView) 
+<p align="center"><img src="Screenshot/icons/logo.png" width="400"></p>
+<p align="center">
+<a href=""><img src="Screenshot/icons/build.svg" target="_blank" alt="Build Status"></a>
+<a href="https://github.com/saurabhpandey9/Moodle-IIIT-Naya-Raipur-App"><img src="Screenshot/icons/stable.svg" target="_blank" alt="Latest Stable Version"></a>
+<a href="Screenshots/Moodle IIITNR.apk" target="_blank"><img src="Screenshot/icons/apk.svg" alt="Apk"><a>
+<a href="LICENSE"><img src="Screenshot/icons/license.svg" alt="License"><a>
+<br>
+<marquee width="60%"height="100px" behavior="alternate" onmouseover="this.stop();" onmouseout="this.start();">
+<a href="https://www.linkedin.com/in/saurabh17100" target="_blank"><img src="Screenshot/icons/linkedin.svg" alt="Linkedin"></a></marquee>
 
-This project is an Android application developed using Android Studio that can be used by the student to perform various activities realted to Academics.Moodle IIITNR Learning solution is platform provided by IIITNR Academics for daily Assignment evaluation ,Project submission and to get notify about upcoming Academic Activity to student.This app is webView version of this platform with some extra added feature for hassle free use.
+</p>
+
+## Description #
+
+This project is an Android application developed using Android Studio that can be used by the student to perform various activities realted to academics.Moodle IIITNR Learning solution is platform provided by IIITNR IT-department for daily Assignment evaluation ,Project submission and to get notify about upcoming Academic Activities to its student.This app is webView  of this platform with some extra added feature for hassle free use.
 
 ## Features
 * Simple and minimal Layout Designs.
@@ -21,35 +33,16 @@ This project is an Android application developed using Android Studio that can b
   * Assignment submission and verification Window
   
 
-<!-- ## Screenshots -->
+## Screenshots
 
-<!-- |![](Screenshots/Log_In_Page.png)|![](Screenshots/User_Registration_Page.png)|![](Screenshots/Admin_Registration_Page.png)|
-|:---:|:---:|:---:|
-|**Log In Page**|**User Registration Page**|**Admin Registration Page**|
+|<img src=Screenshot/Screenshot_2020-05-02-07-58-57-822_com.iiitnr.iiitnrlibraryapp.jpg width="267">|<img src=Screenshot/Screenshot_2020-05-02-07-59-51-287_com.iiitnr.iiitnrlibraryapp.jpg width="267">|<img src=Screenshot/Screenshot_2020-05-02-07-59-59-793_com.android.systemui.jpg width="267">|
+|:--:|:--:|:--:|
+|**Login Window**|**Dashboard**|**View**|
 
-|![](Screenshots/User_Home_Page.png)|![](Screenshots/Admin_Home_Page.png)|![](Screenshots/Add_Book_Page.png)|
-|:---:|:---:|:---:|
-|**User Home Page**|**Admin Home Page**|**Add Book Page**|
+|<img src=Screenshot/Screenshot_2020-05-02-08-00-52-807_com.iiitnr.iiitnrlibraryapp.jpg width="267">|<img src=Screenshot/Screenshot_2020-05-02-08-02-06-963_com.android.documentsui.jpg width="267">|
+|:--:|:--:|
+|**Fle Upload**|**File Selector**|
 
-|![](Screenshots/Remove_Book_Page.png)|![](Screenshots/Update_Book_Page.png)|![](Screenshots/Issue_Book_Page.png)|
-|:---:|:---:|:---:|
-|**Remove Book Page**|**Update Book Page**|**Issue Book Page**|
-
-|![](Screenshots/Return_Book_Page.png)|![](Screenshots/Reissue_Book_Page.png)|![](Screenshots/Collect_Fine_Page.png)|
-|:---:|:---:|:---:|
-|**Return Book Page**|**Reissue Book Page**|**Collect Fine Page**|
-
-|![](Screenshots/Collect_Fine_Confirmation_Page.png)|![](Screenshots/Search_Book_Page.png)|![](Screenshots/Search_Book_Results.png)|
-|:---:|:---:|:---:|
-|**Collect Fine Confirmation**|**Search Book Page**|**Search Book Results**|
-
-|![](Screenshots/See_Issued_Books_Page.png)|![](Screenshots/User_Reissue_Book_Page.png)|![](Screenshots/New_Book_Added_Notification.png)|
-|:---:|:---:|:---:|
-|**See Issued Books Page**|**User Reissue Book Page**|**New Book Added Notification**| -->
-
-<!-- |<img src=Screenshots/Deadline_Approaching_Notification.png width="267">|<img src=Screenshots/Fine_Increased_Notification.png width="267">|
-|:---:|:---:|
-|**Deadline Approaching Notification**|**Fine Increased Notification**| -->
 
 ## Tools Used
 * [Android Studio](https://developer.android.com/studio) : Used as the Android developement environment.
@@ -58,7 +51,7 @@ This project is an Android application developed using Android Studio that can b
 ## Contributing
 You are welcome to contribute :
 
-1. Fork it https://github.com/saurabhpandey9/Moodle-IIIT-Naya-Raipur/fork)
+1. [Fork it](https://github.com/saurabhpandey9/Moodle-IIIT-Naya-Raipur/fork) :`https://github.com/saurabhpandey9/Moodle-IIIT-Naya-Raipur/fork`
 2. Create new branch : `git checkout -b new_feature`
 3. Commit your changes : `git commit -am 'Added new_feature'`
 4. Push to the branch : `git push origin new_feature`
@@ -67,7 +60,15 @@ You are welcome to contribute :
 ## License
 This Project is licensed under the MIT License, see the [LICENSE](LICENSE) file for details.
 
-## Final Notes
+## Author 
 **Thanks for going through this Repository! Have a nice day.**</br>
 </br>**Saurabh Pandey**</br> 
-Contact me : saurabh17100@iiitnr.edu.in or saurabh17100@gmail.com
+#### Contact :`saurabh17100@gmail.com`
+<p align="left">
+<a href="https://github.com/saurabhpandey9/" target="_blank"><img src="Screenshot/icons/github.svg" height ="40" alt="github"></a>
+<a href="mailto:saurabh17100@gmail.com" target="_blank"><img src="Screenshot/icons/mail.svg" height ="40" alt="Gmail"></a>
+<a href="mailto:saurabh17100@iiitnr.edu.in" target="_blank"><img src="Screenshot/icons/mail1.svg" height ="40" alt="College Mail"></a>
+<a href="https://www.linkedin.com/in/saurabh17100" target="_blank"><img src="Screenshot/icons/linkedin.svg" alt="Linkedin"></a>
+</p>
+<hr>
+<p align="center"><img src="Screenshot/icons/thank-you.png" height="50"></p>
