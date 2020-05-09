@@ -2,7 +2,7 @@
 <p align="center">
 <a href=""><img src="Screenshot/icons/build.svg" target="_blank" alt="Build Status"></a>
 <a href="https://github.com/saurabhpandey9/Moodle-IIIT-Naya-Raipur-App"><img src="Screenshot/icons/stable.svg" target="_blank" alt="Latest Stable Version"></a>
-<a href="Screenshots/Moodle IIITNR.apk" target="_blank"><img src="Screenshot/icons/apk.svg" alt="Apk"><a>
+<a href="Screenshot/Moodle IIITNR.apk" target="_blank"><img src="Screenshot/icons/apk.svg" alt="Apk"><a>
 <a href="LICENSE"><img src="Screenshot/icons/license.svg" alt="License"><a>
 <br>
 <marquee width="60%"height="100px" behavior="alternate" onmouseover="this.stop();" onmouseout="this.start();">
