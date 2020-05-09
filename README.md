@@ -1,4 +1,4 @@
-<p align="center"><img src="Screenshot/icons/logo.png" width="400"></p>
+<p align="center"><img src="Screenshot/icons/logo.png" width="100%"></p>
 <p align="center">
 <a href=""><img src="Screenshot/icons/build.svg" target="_blank" alt="Build Status"></a>
 <a href="https://github.com/saurabhpandey9/Moodle-IIIT-Naya-Raipur-App"><img src="Screenshot/icons/stable.svg" target="_blank" alt="Latest Stable Version"></a>
